@@ -2,7 +2,7 @@
 This analysis aims to provide a comprehensive view of the electric vehicle (EV) market by examining both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 
 
-KPI Requirements:
+**KPI Requirements:**
 
 🚗 Total Vehicles:
 Gain a comprehensive understanding of the electric vehicle (EV) landscape by evaluating both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). This analysis will provide insights into the overall market size and growth trends for EVs.
@@ -19,7 +19,7 @@ Total PHEV Vehicles: Identify and analyze the total number of Plug-in Hybrid Ele
 Percentage of PHEVs: Calculate the percentage of PHEVs relative to the total number of electric vehicles. This will provide an understanding of the market share held by plug-in hybrid models
 
 
-Chart requirements:
+**Chart requirements**
 
 Total Vehicles by Model Year (From 2010 Onwards):
 
